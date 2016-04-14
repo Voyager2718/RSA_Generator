@@ -1,0 +1,9 @@
+C:\Users\YANG\Documents\GitHub\RSA_Generator\RSA_Generator\RSA_Generator\bin\Debug\RSA_Generator.exe.config
+C:\Users\YANG\Documents\GitHub\RSA_Generator\RSA_Generator\RSA_Generator\bin\Debug\RSA_Generator.exe
+C:\Users\YANG\Documents\GitHub\RSA_Generator\RSA_Generator\RSA_Generator\bin\Debug\RSA_Generator.pdb
+C:\Users\YANG\Documents\GitHub\RSA_Generator\RSA_Generator\RSA_Generator\obj\Debug\RSA_Generator.csprojResolveAssemblyReference.cache
+C:\Users\YANG\Documents\GitHub\RSA_Generator\RSA_Generator\RSA_Generator\obj\Debug\RSA_Generator.Form1.resources
+C:\Users\YANG\Documents\GitHub\RSA_Generator\RSA_Generator\RSA_Generator\obj\Debug\RSA_Generator.Properties.Resources.resources
+C:\Users\YANG\Documents\GitHub\RSA_Generator\RSA_Generator\RSA_Generator\obj\Debug\RSA_Generator.csproj.GenerateResource.Cache
+C:\Users\YANG\Documents\GitHub\RSA_Generator\RSA_Generator\RSA_Generator\obj\Debug\RSA_Generator.exe
+C:\Users\YANG\Documents\GitHub\RSA_Generator\RSA_Generator\RSA_Generator\obj\Debug\RSA_Generator.pdb
